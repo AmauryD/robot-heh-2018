@@ -1,0 +1,14 @@
+
+ROBOT_TUEUR_X9000/\.idea/
+
+ROBOT_TUEUR_X9000/venv/Lib/
+
+ROBOT_TUEUR_X9000/venv/Scripts/
+
+ROBOT_TUEUR_X9000/venv/tcl/
+
+ROBOT_TUEUR_X9000/venv/Include/
+
+*.pyc
+
+ROBOT_TUEUR_X9000/RPi/
